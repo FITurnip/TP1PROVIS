@@ -1,0 +1,2 @@
+# Mesin penghitung faktorial
+Program akan menghitung faktorial yang berada pada list number. FactorialCalculator akan menampung satu persatu-satu angka pada number dengan melakukan perhitungannya. Perhitungan dilakukan secara async menunggu keselesaian tiap perhitungan satu angka.
